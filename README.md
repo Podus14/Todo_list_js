@@ -1,1 +1,1 @@
-# Todo_list_js
+Todo List is a simple and interactive web application that allows users to manage their daily tasks effectively. Built using HTML, CSS, and JavaScript, this project demonstrates fundamental front-end development skills, including DOM manipulation and event handling.
